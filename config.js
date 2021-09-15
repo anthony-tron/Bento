@@ -88,20 +88,20 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Ambience',
+        link: 'https://www.youtube.com/watch?v=iwfP6EiJ_rQ&list=PLS9DXQqX1qmePgH2UAjLWvhm0RMQ2Kg2K',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'G.O.T.',
+        link: 'https://www.youtube.com/watch?v=6LASz6HAL7E',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Dark Chronicle',
+        link: 'https://www.youtube.com/watch?v=PgUhYFkVdSY&list=PL7704DD431172739B',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'S.N.K.',
+        link: 'https://www.youtube.com/watch?v=_jqSy8E9JLQ',
       },
     ],
     secondList: [

@@ -11,22 +11,22 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Anthony',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'Bonjour!',
+  greetingAfternoon: 'Bonjour,',
+  greetingEvening: 'Bonsoir,',
+  greetingNight: 'Va dormir!',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
-  language: 'en', // More languages in https://openweathermap.org/current#multi
+  language: 'fr', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
   defaultLatitude: '37.775',
@@ -46,33 +46,33 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'GitLab',
+      icon: 'gitlab',
+      link: 'https://gitlab.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'YouTube',
+      icon: 'youtube',
+      link: 'https://www.youtube.com/',
+    },
+    {
+      id: '3',
+      name: 'ENT',
+      icon: 'book',
+      link: 'http://ent.univ-amu.fr/',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Traduction',
+      icon: 'globe',
+      link: 'https://translate.google.fr/?hl=fr',
     },
     {
       id: '5',
       name: 'Reddit',
       icon: 'bookmark',
       link: 'https://reddit.com',
-    },
-    {
-      id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
     },
   ],
 

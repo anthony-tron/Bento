@@ -57,19 +57,19 @@ const CONFIG = {
       link: 'https://www.youtube.com/',
     },
     {
-      id: '3',
+      id: '4',
       name: 'ENT',
       icon: 'book',
       link: 'http://ent.univ-amu.fr/',
     },
     {
-      id: '4',
+      id: '5',
       name: 'Traduction',
       icon: 'globe',
       link: 'https://translate.google.fr/?hl=fr',
     },
     {
-      id: '5',
+      id: '6',
       name: 'Reddit',
       icon: 'bookmark',
       link: 'https://reddit.com',
